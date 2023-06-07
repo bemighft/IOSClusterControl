@@ -21,5 +21,6 @@ ios 免越狱群控，无需硬件，无ios系统版本限制
 QQ: 25121702, 1413077582
 
 QQ交流群: 726873312
-
-WeChat: ![image](http://cdn.mierscript.com/iosclustercontrol/wechat.jpg)
+ 
+请扫描二维码直接联系我们:
+![image](http://cdn.mierscript.com/iosclustercontrol/wechat.jpg)
