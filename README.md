@@ -9,12 +9,12 @@ ios 免越狱群控，无需硬件，无ios系统版本限制
 5. 支持批量向设备发送视频与图片等
 
 # 效果演示
-![image](iosclustercontrol0.png)
-![image](iosclustercontrol1.png)
-![image](iosclustercontrol2.png)
-![image](iosclustercontrol3.png)
-![image](iosclustercontrol4.png)
-![image](iosclustercontrol5.png)
+![image](http://cdn.mierscript.com/iosclustercontrol/iosclustercontrol0.png)
+![image](http://cdn.mierscript.com/iosclustercontrol/iosclustercontrol1.png)
+![image](http://cdn.mierscript.com/iosclustercontrol/iosclustercontrol2.png)
+![image](http://cdn.mierscript.com/iosclustercontrol/iosclustercontrol3.png)
+![image](http://cdn.mierscript.com/iosclustercontrol/iosclustercontrol4.png)
+![image](http://cdn.mierscript.com/iosclustercontrol/iosclustercontrol5.png)
 
 # 联系我们
 
@@ -22,4 +22,4 @@ QQ: 25121702, 1413077582
 
 QQ交流群: 726873312
 
-WeChat: ![image](wechat.jpg)
+WeChat: ![image](http://cdn.mierscript.com/iosclustercontrol/wechat.jpg)
