@@ -8,7 +8,10 @@ ios 免越狱群控，无需硬件，无ios系统版本限制，根据电脑配�
 4. 副控支持直接点击，双击标题切换主控
 5. 支持批量向设备发送视频与图片等
 
-# 效果演示
+# 视频演示
+[![IOS免越狱投屏中控 同时控制30台 效果演示](http://cdn.mierscript.com/iosclustercontrol/224fcdf2d811c48900284ec14cc0b6d.png)](https://www.bilibili.com/video/BV1Du411a7rb/?share_source=copy_web&vd_source=84fe0be5e1b68cc22a1576b3fb886e4b)
+
+# 部分功能效果演示
 ![image](http://cdn.mierscript.com/iosclustercontrol/iosclustercontrol0.png)
 ![image](http://cdn.mierscript.com/iosclustercontrol/iosclustercontrol1.png)
 ![image](http://cdn.mierscript.com/iosclustercontrol/iosclustercontrol2.png)
