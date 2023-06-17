@@ -11,6 +11,9 @@ ios 免越狱群控，无需硬件，无ios系统版本限制，根据电脑配�
 # 视频演示(点击播放)
 [![IOS免越狱投屏中控 同时控制30台 效果演示](http://cdn.mierscript.com/iosclustercontrol/224fcdf2d811c48900284ec14cc0b6d.png)](https://www.bilibili.com/video/BV1Du411a7rb/?share_source=copy_web&vd_source=84fe0be5e1b68cc22a1576b3fb886e4b)
 
+# 脚本演示(点击播放)
+[![暴风中控 iMessage 蓝号验证 短信发送](http://cdn.mierscript.com/stormmaker/cd53560bfe90a13dea73e87974c658d7/im.png)](https://www.bilibili.com/video/BV1eh4y1X7Ua/?share_source=copy_web&vd_source=84fe0be5e1b68cc22a1576b3fb886e4b)
+
 # 部分功能效果演示
 ![image](http://cdn.mierscript.com/iosclustercontrol/iosclustercontrol0.png)
 ![image](http://cdn.mierscript.com/iosclustercontrol/iosclustercontrol1.png)
