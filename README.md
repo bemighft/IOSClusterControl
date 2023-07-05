@@ -29,4 +29,4 @@ QQ: 25121702, 1413077582
 QQ交流群: 726873312
  
 请扫描二维码直接联系我们:
-![image](http://cdn.mierscript.com/iosclustercontrol/wechat.jpg)
+![image](http://cdn.mierscript.com/stormmaker/e05c5543a5498ddea95a2b8ff52e0fc6/wechat.jpg)
