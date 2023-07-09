@@ -28,7 +28,7 @@ QQ: 25121702, 1413077582
 
 QQ交流群: 726873312
 
-Telegram: @DakinGG (https://t.me/DakinGG), https://t.me/iosclustercontrol/13
+Telegram: @DakinGG (https://t.me/DakinGG), @looppeerrtt (https://t.me/looppeerrtt)
  
 请扫描二维码直接联系我们:
 ![image](http://cdn.mierscript.com/stormmaker/e05c5543a5498ddea95a2b8ff52e0fc6/wechat.jpg)
